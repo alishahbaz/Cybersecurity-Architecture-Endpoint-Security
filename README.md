@@ -33,10 +33,10 @@ flowchart LR
 
 | Page | What you will learn |
 | --- | --- |
-| [Endpoint Security](Endpoint-Security) | What an endpoint is and why it matters |
-| [Endpoint Management Systems](Endpoint-Management-Systems) | Typical and best-practice endpoint management |
-| [BYOD](BYOD) | Bring Your Own Device programs and required controls |
-| [Glossary](Glossary) | Key terms |
+| [Endpoint Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security/wiki/Endpoint-Security) | What an endpoint is and why it matters |
+| [Endpoint Management Systems](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security/wiki/Endpoint-Management-Systems) | Typical and best-practice endpoint management |
+| [BYOD](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security/wiki/BYOD) | Bring Your Own Device programs and required controls |
+| [Glossary](https://github.com/alishahbaz/Cybersecurity-Architecture-Endpoint-Security/wiki/Glossary) | Key terms |
 
 ## Core idea
 
