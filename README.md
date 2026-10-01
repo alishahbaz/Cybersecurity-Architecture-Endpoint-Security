@@ -1,4 +1,4 @@
-# Endpoint Security
+# 05 Endpoint Security
 
 > **Cybersecurity Architecture Series**  
 > This wiki explains endpoint security in simple language: what endpoints are, how to manage them, and how BYOD programs should work.
